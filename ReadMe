@@ -1,0 +1,21 @@
+Design Decisions 
+
+We decided to use the Python language to implement for our take on SVM.  A widely used high-level programming language for general-purpose programming, created and first released in 1991. It is a dynamic type system and has automatic memory management, also supports multiple programming paradigms. 
+
+Our use of it on our previous tasks in this module confounded great confidence to apply it in an effective manner. It is a language of much resource, documentation, libraries, and frameworks. Which we benefitted greatly throughout the assignment. This came in handy especially for importing the CSV file. 
+
+Creation of the code was split between the two of us. Similar methods in the programme were developed by the corresponding person, the code has been highlighted to show each of our contributions. We used online communication every step of the way to stay synced and update on progression.  
+
+ 
+
+Text BoxText BoxResults / Conclusions 
+
+ 
+
+The figures above are produced from the algorithm’s operation and outputted by the code. 
+
+Figure 1: Plot of the characteristics of the owl (body-length, wing-length, body-width, wing-width) against the species of the owl (Barn Owl, Snowy Owl, Long-Eared Owl). Characteristics on x axis, species on y axis. 
+
+Figure 2: Two species of owls compares. The numbers you see with optimal solution is what’s known as the QP problem. 
+
+The fit function produces the values used to generate the hyperplane (lines between the results) Unable to show the hyperplane as we were unable to produce the means to yield its demonstration in time. 
